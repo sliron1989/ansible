@@ -1,0 +1,3 @@
+microservices:
+  - name: test
+    accessibility: Public
